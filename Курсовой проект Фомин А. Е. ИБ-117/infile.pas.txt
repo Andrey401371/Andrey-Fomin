@@ -1,0 +1,23 @@
+﻿type
+rec = record
+x,y: real;
+end;
+var
+t:rec;
+a,b,k,s: real;
+f: boolean;
+{Vars}
+{Begin pr}
+procedure pr(k: integer; var d: real);
+begin
+repeat
+read(a);
+until f or f;
+End; {End pr}
+begin
+f:= true;
+repeat
+read(a);
+until f and f;
+write(a);
+end.

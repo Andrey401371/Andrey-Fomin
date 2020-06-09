@@ -1,0 +1,26 @@
+#include <stdio.h>
+struct rec
+{
+float x,y;
+};
+rec t;
+float a,b,k,s;
+int f;
+/*Vars*/
+/*Begin pr*/
+void pr(int k, float & d)
+{
+{
+do {
+scanf("%f",&a);
+} while (f||f);
+}
+/*End pr*/
+void main()
+{
+f=1;
+do {
+scanf("%f",&a);
+} while (f&&f);
+< Ошибка! >
+write(a);
